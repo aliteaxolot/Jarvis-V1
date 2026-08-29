@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+groq
+pygetwindow
+customtkinter
+edge-tts
+pygame
+keyboard

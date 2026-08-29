@@ -6,7 +6,7 @@
 
 Jarvis listens, understands, speaks with natural voices, remembers your preferences, and can safely execute terminal commands — all from a sleek desktop UI.
 
-<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
 <img src="https://img.shields.io/badge/Groq-Powered-orange?style=for-the-badge" alt="Groq API" />
 <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Platform" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
@@ -42,7 +42,7 @@ Jarvis listens, understands, speaks with natural voices, remembers your preferen
 
 ## 🧰 Prerequisites
 
-- **Python 3.10+** — [Download here](https://www.python.org/downloads/)
+- **Python 3.12** — [Download here]([https://www.python.org/downloads/](https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe))
   > ⚠️ Be sure to check **"Add Python to PATH"** during installation.
 - **Microphone & speakers** — required for Jarvis to hear you and talk back.
 
@@ -55,7 +55,7 @@ Jarvis uses [Groq](https://console.groq.com/) for lightning-fast AI reasoning an
 1. Go to the [Groq Console](https://console.groq.com/) and create an account (or log in).
 2. Navigate to **API Keys**.
 3. Click **Create API Key** and copy the generated key.
-4. Open `jarvis.py` and set your key near the top of the file:
+4. Open `main.py` and set your key near the top of the file:
 
    ```python
    GROQ_API_KEY = "your_api_key_here"
@@ -96,7 +96,7 @@ Jarvis will launch its UI, calibrate your microphone, and announce that he's onl
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) or open a pull request.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://alite.webuilt.dev) or open a pull request.
 
 ---
 
@@ -108,6 +108,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ for anyone who's always wanted their own JARVIS.
+Made By Alite for anyone who's always wanted their own JARVIS.
 
 </div>
